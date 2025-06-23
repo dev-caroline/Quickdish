@@ -1,0 +1,21 @@
+    {
+    "name": "Your App Name",
+    "short_name": "App",
+    "description": "Your app description",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+        "src": "icons/food-192 x 192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+        },
+        {
+        "src": "icons/food- 512x 512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+        }
+    ]
+    }
