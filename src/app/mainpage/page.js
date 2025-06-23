@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 
-const page = () => {
+const Page = () => {
   return (
     <div className='bg-white' style={{ minHeight: '100vh', width: '100%' }}>
       <Navbar />
@@ -66,4 +66,4 @@ const page = () => {
   )
 }
 
-export default page 
+export default Page
